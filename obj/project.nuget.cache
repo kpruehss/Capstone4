@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzRHm3TZq2nC72wlP6YN4vNxT5C8fY2n4vMiInx/6uveCCZ1Z3moBlkfc1X3AAVzjeRiAqQA+KfheyOgvCGepA==",
+  "success": true,
+  "projectFilePath": "/home/kartel/Devel/F#/Capstone4/Capstone4.fsproj",
+  "expectedPackageFiles": [
+    "/home/kartel/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/home/kartel/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
